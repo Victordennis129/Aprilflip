@@ -2,3 +2,10 @@ h1 {
     font-size: 3rem;
     color: green;
 }
+p {
+    font-size: 2rem;
+    letter-spacing: 1.5px;
+}
+img {
+    width: 50px;
+}
